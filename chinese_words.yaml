@@ -1,0 +1,34 @@
+characters:
+- character: "\u770B"
+  last_practice_ctp: 1649267883329
+  last_practice_ptc: 1642869600059
+  level: 1
+  number_times_asked_before_ctp: 6
+  number_times_asked_before_ptc: 4
+  number_times_correct_ctp: 6
+  number_times_correct_ptc: 3
+  pinyin: "k\xE0n"
+  score_ctp: 174.75030625000002
+  score_ptc: 125.99499999999999
+- character: "\u4E00\u8D77"
+  last_practice_ctp: 1646816149177
+  last_practice_ptc: 1642843449175
+  level: 1
+  number_times_asked_before_ctp: 8
+  number_times_asked_before_ptc: 4
+  number_times_correct_ctp: 8
+  number_times_correct_ptc: 3
+  pinyin: "y\u012B q\u01D0"
+  score_ctp: 155.15939467187502
+  score_ptc: 119.67750000000001
+- character: "\u7C73\u996D"
+  last_practice_ctp: 1643183180403
+  last_practice_ptc: 1643177648969
+  level: 1
+  number_times_asked_before_ctp: 9
+  number_times_asked_before_ptc: 6
+  number_times_correct_ctp: 7
+  number_times_correct_ptc: 4
+  pinyin: "m\u01D0 f\xE0n"
+  score_ctp: 185.29816218749997
+  score_ptc: 131.41
